@@ -17,3 +17,9 @@
 
 ## Gitlog :
 ![alt text](/gitlog--oneline.png "Preuve de travail avec git log")
+
+## Git clone :
+![alt text](/GitClone.png "Preuve de travail avec git log")
+
+## README profil :
+![alt text](/README_Profil.png "Preuve de travail avec git log")
